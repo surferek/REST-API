@@ -22,7 +22,6 @@ stores = [
     }
 ]
 
-
 @app.route('/')
 @app.route('/home')
 def index():
